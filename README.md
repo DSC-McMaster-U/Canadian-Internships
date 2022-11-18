@@ -1,4 +1,4 @@
-# List of Canadian Internships by GDSC McMaster
+# List of Canadian Internships by GDSC McMaster (2023)
 
 This is a community-sourced repo that can be used to find internships located in Canada or companies that sponsor students. 
 
