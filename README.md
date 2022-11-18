@@ -14,7 +14,7 @@ To contribute:
  
  
 
-| Name                                                                                                                                                                         | Location                             | Role                             |Hiring Season                    | Notes                                                                                |
+| Company Name                                                                                                                                                                         | Location                             | Role                             |Hiring Season                    | Notes                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | [Google](https://careers.google.com/jobs/results/97935383573996230/)                                                                                    | Waterloo, ON; Toronto, ON;Montreal,ON| Software Development Intern| Summer
 | [Dropbox](https://www.dropbox.com/jobs/listing/4634837?gh_src=aonhf1)|Canada(Remote)| Site Reliability Engineering Intern| Summer
