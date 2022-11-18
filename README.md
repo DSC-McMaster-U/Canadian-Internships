@@ -9,7 +9,7 @@ To contribute:
  
  OR 
  
- Submit through this form: 
+ Submit through this [form](https://docs.google.com/forms/d/e/1FAIpQLSdZ-E1A-pUN3LKB5ewmnDdE_5MueKwpg2VufFvEzFC9I-cgyg/viewform?usp=sf_link) 
  (Note: These will be added periodically)
  
  
