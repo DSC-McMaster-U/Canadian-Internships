@@ -19,4 +19,3 @@ To contribute:
 | [Google](https://careers.google.com/jobs/results/97935383573996230/)                                                                                    | Waterloo, ON; Toronto, ON;Montreal,ON| Software Development Intern| Summer
 | [Dropbox](https://www.dropbox.com/jobs/listing/4634837?gh_src=aonhf1)|Canada(Remote)| Site Reliability Engineering Intern| Summer
 |[Mark43](https://mark43.com/list-job/?gh_jid=4657411&gh_src=feecb3ef1us)| Toronto,ON| Engineering Intern| Summer
-| [McAfee](https://careers.mcafee.com/job/-/-/731/38171709520?source=LinkedIn)|Canada(Remote)|Software Engineer Intern| N/A
