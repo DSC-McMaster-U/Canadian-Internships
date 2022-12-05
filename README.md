@@ -35,3 +35,7 @@ To contribute:
 | Binance| Toronto, ON(On-site and Remote)| [Software Quality Assurance Engineer](https://jobs.lever.co/binance/a53c3ac3-48ce-4676-9998-adced2e10b38?lever-source=LinkedInJobs)
 | Interac| Toronto, ON| [Software Developer](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Developer-Intern-1_REQ-517?source=Linkedin)
 | EA Games| Vancouver, BC| [C++ Engineer Intern](https://ea.gr8people.com/jobs/175722/c-engineer-intern-summer-2023?geo_location=ChIJs0-pQ_FzhlQRi_OBm-qWkbs)| Summer
+| Snowflake| Toronto, ON| [Software Engineer Intern](https://careers.snowflake.com/us/en/job/6399242002/Software-Engineer-Intern-Toronto-Summer-2023)| Summer
+| Mastercard| Vancouver, BC| [Software Engineer Intern](https://careers.mastercard.com/us/en/job/R-173648/Software-Engineer-Intern)| Summer
+| Slack| Vancouver, BC| [Software Engineer Canada](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798-2)| Summer
+| Marvell Technology| Ottawa, ON| [Software Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Software-Intern_2202289?src=SNS-102&source=LinkedIn)| Summer
