@@ -31,7 +31,7 @@ To contribute:
 | Amazon| Vancouver, BC| [Software Development Engineer](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada)  
 | Momentive.ai| Ottawa, ON(Remote)| [Data Science Intern](https://www.glassdoor.ca/job-listing/data-science-intern-summer-2023-momentive-ai-JV_IC2286068_KO0,31_KE32,44.htm?jl=1008280713692&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer| For students pursuing a Master Degree or PhD 
 | Salesforce| Toronto, ON| [Software Engineer - Slack](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/Canada---Vancouver/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798-2?source=LinkedIn_Jobs)| Summer
-| Adode| Toronto, ON| [Research Scientists/Engineer](https://careers.adobe.com/us/en/job/ADOBUSR133694EXTERNALENUS/2023-Intern-Research-Scientist-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Spring, Summer and Fall| For students pursuing a Masters Degree or PhD
+| Adobe| Toronto, ON| [Research Scientists/Engineer](https://careers.adobe.com/us/en/job/ADOBUSR133694EXTERNALENUS/2023-Intern-Research-Scientist-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Spring, Summer and Fall| For students pursuing a Masters Degree or PhD
 | Binance| Toronto, ON(On-site and Remote)| [Software Quality Assurance Engineer](https://jobs.lever.co/binance/a53c3ac3-48ce-4676-9998-adced2e10b38?lever-source=LinkedInJobs)
 | Interac| Toronto, ON| [Software Developer](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Developer-Intern-1_REQ-517?source=Linkedin)
 | EA Games| Vancouver, BC| [C++ Engineer Intern](https://ea.gr8people.com/jobs/175722/c-engineer-intern-summer-2023?geo_location=ChIJs0-pQ_FzhlQRi_OBm-qWkbs)| Summer
@@ -39,3 +39,5 @@ To contribute:
 | Mastercard| Vancouver, BC| [Software Engineer Intern](https://careers.mastercard.com/us/en/job/R-173648/Software-Engineer-Intern)| Summer
 | Slack| Vancouver, BC| [Software Engineer Canada](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798-2)| Summer
 | Marvell Technology| Ottawa, ON| [Software Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Software-Intern_2202289?src=SNS-102&source=LinkedIn)| Summer
+|Ansys| Waterloo,ON| [Software Development and Testing Intern](https://careers.ansys.com/job/Waterloo-Software-Development-and-Testing-Intern-ON-N2J4G8/965965800/?utm_source=LINKEDIN&utm_medium=referrer)|
+|Qualcomm|Markham,ON| [SoC Software Engineering Internship](https://qualcomm.dejobs.org/markham-on/soc-software-engineering-internship-4-or-16-months/254A12CAEF4F4543B80A437ED1941A69/job/)| Spring, Summer| 4 or 16 months available
