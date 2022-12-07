@@ -41,3 +41,5 @@ To contribute:
 | Marvell Technology| Ottawa, ON| [Software Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Software-Intern_2202289?src=SNS-102&source=LinkedIn)| Summer
 |Ansys| Waterloo,ON| [Software Development and Testing Intern](https://careers.ansys.com/job/Waterloo-Software-Development-and-Testing-Intern-ON-N2J4G8/965965800/?utm_source=LINKEDIN&utm_medium=referrer)|
 |Qualcomm|Markham,ON| [SoC Software Engineering Internship](https://qualcomm.dejobs.org/markham-on/soc-software-engineering-internship-4-or-16-months/254A12CAEF4F4543B80A437ED1941A69/job/)| Spring, Summer| 4 or 16 months available
+|AMD| Markham, ON| [Software Program Management in Gaming/Workstation and Cloud-Virtualization Intern](https://careers.amd.com/careers-home/jobs/23382?lang=en-us),       [ASIC Design Co-Op - Co-Op/ Intern](https://careers.amd.com/careers-home/jobs/23432?lang=en-us),  [Multimedia Drivers Team Co-op](https://careers.amd.com/careers-home/jobs/22181?lang=en-us)|Summer 2023-Fall 2024| 12-months
+|Vidyard| Canada(Remote)| [Software Developer Co-op](https://boards.greenhouse.io/vidyard/jobs/4730019)| Summer 2023|
