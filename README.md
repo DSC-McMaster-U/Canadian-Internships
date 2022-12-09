@@ -48,5 +48,5 @@ To contribute:
 |Canada Life|Toronto, ON| [Associate Software Developer Co-op](https://careers-canadalife.icims.com/jobs/24190/associate-software-developer-co-op/job)||
 |ERCO Worldwide|Mississauga, ON| [Web Developer - Coop](https://www.linkedin.com/jobs/view/web-developer-coop-at-erco-worldwide-3366992660/?originalSubdomain=ca)||
 |IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
-|SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months| 
+|SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
 
