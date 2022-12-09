@@ -43,4 +43,10 @@ To contribute:
 |Qualcomm|Markham,ON| [SoC Software Engineering Internship](https://qualcomm.dejobs.org/markham-on/soc-software-engineering-internship-4-or-16-months/254A12CAEF4F4543B80A437ED1941A69/job/)| Spring, Summer| 4 or 16 months available
 |AMD| Markham, ON| [Software Program Management in Gaming/Workstation and Cloud-Virtualization Intern](https://careers.amd.com/careers-home/jobs/23382?lang=en-us),       [ASIC Design Co-Op - Co-Op/ Intern](https://careers.amd.com/careers-home/jobs/23432?lang=en-us),  [Multimedia Drivers Team Co-op](https://careers.amd.com/careers-home/jobs/22181?lang=en-us)|Summer 2023-Fall 2024| 12-months
 |Vidyard| Canada(Remote)| [Software Developer Co-op](https://boards.greenhouse.io/vidyard/jobs/4730019)| Summer 2023|
-|TD Bank|Toronto, ON| [Cloud/DevOps Engineer Co-op](https://jobs.td.com/en-CA/jobs/16992000/cloud-devops-engineer-intern-co-op-toronto-ca/)| Summer 2023| 
+|TD Bank|Toronto, ON| [Cloud/DevOps Engineer Co-op](https://jobs.td.com/en-CA/jobs/16992000/cloud-devops-engineer-intern-co-op-toronto-ca/)| Summer 2023|
+|Apply Digital|Toronto, ON| [Software Engineer Co-op (Web)](https://ca.indeed.com/cmp/Apply-Digital?from=mobviewjob&tk=1gjpod3aqih33801&fromjk=bcce7fe38e53ee66&attributionid=mobvjcmp)||hybrid/remote-friendly|
+|Canada Life|Toronto, ON| [Associate Software Developer Co-op](https://careers-canadalife.icims.com/jobs/24190/associate-software-developer-co-op/job)||
+|ERCO Worldwide|Mississauga, ON| [Web Developer - Coop](https://www.linkedin.com/jobs/view/web-developer-coop-at-erco-worldwide-3366992660/?originalSubdomain=ca)||
+|IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
+|SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
+
