@@ -49,4 +49,5 @@ To contribute:
 |ERCO Worldwide|Mississauga, ON| [Web Developer - Coop](https://www.linkedin.com/jobs/view/web-developer-coop-at-erco-worldwide-3366992660/?originalSubdomain=ca)||
 |IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
 |SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
+|ScotiaBank|Toronto, ON| [Data Engineer Internship/Co-Op](https://jobs.scotiabank.com/job/Toronto-Velocity-Data-Engineer-InternshipCo-Op-Summer-2023-%288-months%29-ON/565972317/?feedId=214117&utm_source=LinkedInJobPostings&utm_campaign=ScotiaBank_Linkedin)|Summer 2023|8 Months| 
 
