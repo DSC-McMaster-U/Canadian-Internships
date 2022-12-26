@@ -44,10 +44,14 @@ To contribute:
 |AMD| Markham, ON| [Software Program Management in Gaming/Workstation and Cloud-Virtualization Intern](https://careers.amd.com/careers-home/jobs/23382?lang=en-us),       [ASIC Design Co-Op - Co-Op/ Intern](https://careers.amd.com/careers-home/jobs/23432?lang=en-us),  [Multimedia Drivers Team Co-op](https://careers.amd.com/careers-home/jobs/22181?lang=en-us)|Summer 2023-Fall 2024| 12-months
 |Vidyard| Canada(Remote)| [Software Developer Co-op](https://boards.greenhouse.io/vidyard/jobs/4730019)| Summer 2023|
 |TD Bank|Toronto, ON| [Cloud/DevOps Engineer Co-op](https://jobs.td.com/en-CA/jobs/16992000/cloud-devops-engineer-intern-co-op-toronto-ca/)| Summer 2023|
-|Apply Digital|Toronto, ON| [Software Engineer Co-op (Web)](https://ca.indeed.com/cmp/Apply-Digital?from=mobviewjob&tk=1gjpod3aqih33801&fromjk=bcce7fe38e53ee66&attributionid=mobvjcmp)||hybrid/remote-friendly|
+|Apply Digital|Toronto, ON| [Software Engineer Co-op (Web)](https://ca.indeed.com/cmp/Apply-Digital?from=mobviewjob&tk=1gjpod3aqih33801&fromjk=bcce7fe38e53ee66&attributionid=mobvjcmp), [Software Engineer Co-op (Mobile)](https://apply-digital.breezy.hr/p/740c92f885ae-software-engineer-co-op-mobile)||hybrid/remote-friendly|
 |Canada Life|Toronto, ON| [Associate Software Developer Co-op](https://careers-canadalife.icims.com/jobs/24190/associate-software-developer-co-op/job)||
 |ERCO Worldwide|Mississauga, ON| [Web Developer - Coop](https://www.linkedin.com/jobs/view/web-developer-coop-at-erco-worldwide-3366992660/?originalSubdomain=ca)||
 |IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
 |SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
+|Square|Toronto, ON| [Multiple roles](https://careers.squareup.com/ca/en/jobs?type%5B%5D=Intern&location%5B%5D=Kitchener%2C%20Canada&location%5B%5D=Toronto%2C%20Canada&location%5B%5D=Vancouver%2C%20Canada)|Summer 2023|Remote|
+|RBC|Toronto, ON. Calgary, AB| [Summer Student Software Developer](https://jobs.rbc.com/ca/en/featuredopportunitiesstudent-early-talent-jobs)|Summer 2023|
+|Bit Quill|Vancouver, BC| [Co-op Developer](https://jobs.lever.co/bitquilltech/a35ba224-fcb0-4c2c-accd-9f9ae8bbd37e)|?|Remote, Hybrid|
+|Affirm|Remote Canada| [Software Engineer Intern 2023](https://boards.greenhouse.io/affirm/jobs/5283830003)|Summer 2023|12-16 weeks|
+|Scotiabank|Toronto, ON| [Multiple Roles (Velocity)](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA)|Summer 2023|4 or 8 Months. Apply by December 31 2022|
 |ScotiaBank|Toronto, ON| [Data Engineer Internship/Co-Op](https://jobs.scotiabank.com/job/Toronto-Velocity-Data-Engineer-InternshipCo-Op-Summer-2023-%288-months%29-ON/565972317/?feedId=214117&utm_source=LinkedInJobPostings&utm_campaign=ScotiaBank_Linkedin)|Summer 2023|8 Months| 
-
