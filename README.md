@@ -63,3 +63,4 @@ To contribute:
 |Deloitte|Multiple Locations| [Multiple Roles](https://careers.deloitte.ca/search/?q=co-op)|Summer 2023|?|
 |RBCx| Toronto,ON| [Data Analyst Student](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000040236EXTERNALENCA/2023-Summer-Student-Data-Analyst-RBCx-Analytics?utm_source=LinkedIn&utm_medium=phenom-feeds&utm_campaign=rbc_linkedin)| Summmer 2023| 4 months|
 |Nokia| Multiple Locations| [Multiple Roles](https://careers.nokia.com/jobs/search/36839040)| Summer 2023, Fall 2023| 4 months (some roles can be extended to 8 months)|
+|George Weston|Toronto, ON| [Backend Development Intern](https://ca.indeed.com/cmp/George-Weston-Limited/jobs)| |Full-time Co-op, Remote|
