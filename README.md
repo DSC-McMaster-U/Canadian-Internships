@@ -61,3 +61,4 @@ To contribute:
 |Thales|Ottawa, ON| [Multiple Roles](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?workerSubType=47200b8529d910215e133a260a722492&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)|?|?|
 |Loblaws|Toronto, Brampton, ON| [Multiple Roles](https://myview.wd3.myworkdayjobs.com/loblaw_careers_carrieres/?q=software)|Summer 2023|4-12 Months|
 |Deloitte|Multiple Locations| [Multiple Roles](https://careers.deloitte.ca/search/?q=co-op)|Summer 2023|?|
+|RBCx| Toronto,ON| [Data Analyst Student](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000040236EXTERNALENCA/2023-Summer-Student-Data-Analyst-RBCx-Analytics?utm_source=LinkedIn&utm_medium=phenom-feeds&utm_campaign=rbc_linkedin)| Summmer 2023| 4 months|
