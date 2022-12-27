@@ -55,3 +55,9 @@ To contribute:
 |Affirm|Remote Canada| [Software Engineer Intern 2023](https://boards.greenhouse.io/affirm/jobs/5283830003)|Summer 2023|12-16 weeks|
 |Scotiabank|Toronto, ON| [Multiple Roles (Velocity)](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA)|Summer 2023|4 or 8 Months. Apply by December 31 2022|
 |ScotiaBank|Toronto, ON| [Data Engineer Internship/Co-Op](https://jobs.scotiabank.com/job/Toronto-Velocity-Data-Engineer-InternshipCo-Op-Summer-2023-%288-months%29-ON/565972317/?feedId=214117&utm_source=LinkedInJobPostings&utm_campaign=ScotiaBank_Linkedin)|Summer 2023|8 Months| 
+|Veeva|Toronto, ON| [Intern Release Engineer](https://careers.veeva.com/job/16917424/)|?|8 Months|
+|Parallel Domain|Vancouver, BC| [Software Engineering Intern](https://jobs.lever.co/paralleldomain/9c2e97be-1e2f-454a-87e2-b0b4bd531252)|?|12-16 weeks (Hybrid)|
+|Ceridian|Toronto, ON| [Multiple Roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=intern&locationString=toronto&distance=100)|Winter, Summer 2023|4-12 Months (Remote)|
+|Thales|Ottawa, ON| [Multiple Roles](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?workerSubType=47200b8529d910215e133a260a722492&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)|?|?|
+|Loblaws|Toronto, Brampton, ON| [Multiple Roles](https://myview.wd3.myworkdayjobs.com/loblaw_careers_carrieres/?q=software)|Summer 2023|4-12 Months|
+|Deloitte|Multiple Locations| [Multiple Roles](https://careers.deloitte.ca/search/?q=co-op)|Summer 2023|?|
