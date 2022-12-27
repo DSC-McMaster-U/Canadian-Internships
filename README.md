@@ -63,3 +63,5 @@ To contribute:
 |Deloitte|Multiple Locations| [Multiple Roles](https://careers.deloitte.ca/search/?q=co-op)|Summer 2023|?|
 |RBCx| Toronto,ON| [Data Analyst Student](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000040236EXTERNALENCA/2023-Summer-Student-Data-Analyst-RBCx-Analytics?utm_source=LinkedIn&utm_medium=phenom-feeds&utm_campaign=rbc_linkedin)| Summmer 2023| 4 months|
 |Nokia| Multiple Locations| [Multiple Roles](https://careers.nokia.com/jobs/search/36839040)| Summer 2023, Fall 2023| 4 months (some roles can be extended to 8 months)|
+|Restaurant Brands International| Toronto,ON| [2023 Technical Development Program Summer Internship (TDP)] (https://careers.rbi.com/global/en/job/6262468002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Toronto)| Summer
+|Replit| Canada or United States| [Various Engineering Roles]| (https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01)|Summer
