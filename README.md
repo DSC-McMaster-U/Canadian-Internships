@@ -67,3 +67,8 @@ To contribute:
 |Replit| Canada or United States| [Various Engineering Roles](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01)|Summer 2023|
 |George Weston|Toronto, ON| [Backend Development Intern](https://ca.indeed.com/cmp/George-Weston-Limited/jobs)| |Full-time Co-op, Remote|
 |Guidewire Software|Toronto, ON| [Summer 2023 Software Engineering Co-op](https://www.linkedin.com/jobs/view/3371652226)|Summer 2023| 4 Months, Hybrid |
+|Cowbell|Toronto, ON| [Software Engineer (Platform) Intern](https://boards.greenhouse.io/cowbellcyber/jobs/5432241003)|Jan 2023|4 Months, Remote|
+|Inworld|Vancouver, BC| [Software Engineering Intern](https://jobs.lever.co/inworld/e2c7362e-1f5e-410a-9afa-4a25b3c51f92)|Summer 2023|12-16 weeks, Remote|
+|Entrust|Ottawa, ON| [Intern - Software Development - Certificate Solutions](https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/Canada---Ottawa/Intern-16-month-term---Software-Development---Certificate-Solutions_R001915)|?|16 months|
+|General Dynamics|Ottawa, ON| [Software Engineering Co-op](https://cacoop-gdms.icims.com/jobs/58290/job?mobile=false&width=1252&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|Summer 2023|4-12 Months|
+|D2L|Multiple Locations| [Software Developer Co-op](https://www.d2l.com/careers/early-talent/jobs/)|Summer 2023|4, 12-16 Months, Remote|
