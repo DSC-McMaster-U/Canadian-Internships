@@ -67,3 +67,4 @@ To contribute:
 |Replit| Canada or United States| [Various Engineering Roles](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01)|Summer 2023|
 |George Weston|Toronto, ON| [Backend Development Intern](https://ca.indeed.com/cmp/George-Weston-Limited/jobs)| |Full-time Co-op, Remote|
 |Guidewire Software|Toronto, ON| [Summer 2023 Software Engineering Co-op](https://www.linkedin.com/jobs/view/3371652226)|Summer 2023| 4 Months, Hybrid |
+|Ontario Energy Board|Toronto, ON| [Engineering Co-op Student 2023](https://careers-oeb.icims.com/jobs/1412/engineering-co-op-student-2023/job)|| 12 Months |
