@@ -16,7 +16,7 @@ To contribute:
 
 | Company Name                                                                                                                                                                         | Location                             | Role                             |Hiring Season                    | Notes                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Google                                                                                    | Waterloo, ON; Toronto, ON; Montreal,ON| [Software Development Intern](https://careers.google.com/jobs/results/97935383573996230/)| Summer
+| Google                                                                                    | Waterloo, ON; Toronto, ON; Montreal,ON| [Software Development Intern](https://careers.google.com/jobs/results/97935383573996230/)| Summer|CLOSED|
 | Dropbox|Canada(Remote)| [Site Reliability Engineering Intern](https://www.dropbox.com/jobs/listing/4634837?gh_src=aonhf1)| Summer
 |Mark43| Toronto,ON| [Engineering Intern](https://mark43.com/list-job/?gh_jid=4657411&gh_src=feecb3ef1us)| Summer
 |Intuit| Toronto,ON; Edmonton,AB| [Software Developer Co-op](http://jobs.intuit.com/job/toronto/software-developer-co-op/27595/35936209984?utm_source=copy&utm_medium=social_post&utm_campaign=Intuit_social) , [UX Design Co-op](https://jobs.intuit.com/job/toronto/ux-design-co-op/27595/35936210320?utm_source=copy&utm_medium=social_post&utm_campaign=Intuit_social), [Software Developer Co-op 12 Months](http://jobs.intuit.com/job/edmonton/software-developer-co-op-12-months/27595/38666819776?utm_source=copy&utm_medium=social_post&utm_campaign=Intuit_social)|Winter(Jan-Apr)| 4-months and 12 months available
@@ -67,8 +67,11 @@ To contribute:
 |Replit| Canada or United States| [Various Engineering Roles](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01)|Summer 2023|
 |George Weston|Toronto, ON| [Backend Development Intern](https://ca.indeed.com/cmp/George-Weston-Limited/jobs)| |Full-time Co-op, Remote|
 |Guidewire Software|Toronto, ON| [Summer 2023 Software Engineering Co-op](https://www.linkedin.com/jobs/view/3371652226)|Summer 2023| 4 Months, Hybrid |
+|Ontario Energy Board|Toronto, ON| [Engineering Co-op Student 2023](https://careers-oeb.icims.com/jobs/1412/engineering-co-op-student-2023/job)|| 12 Months |
+|Ceridian|Toronto, ON| [Multiple Software Developer Intern roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=Software+Developer+Intern)|4 or 8 months |Remote|
 |Cowbell|Toronto, ON| [Software Engineer (Platform) Intern](https://boards.greenhouse.io/cowbellcyber/jobs/5432241003)|Jan 2023|4 Months, Remote|
 |Inworld|Vancouver, BC| [Software Engineering Intern](https://jobs.lever.co/inworld/e2c7362e-1f5e-410a-9afa-4a25b3c51f92)|Summer 2023|12-16 weeks, Remote|
 |Entrust|Ottawa, ON| [Intern - Software Development - Certificate Solutions](https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/Canada---Ottawa/Intern-16-month-term---Software-Development---Certificate-Solutions_R001915)|?|16 months|
 |General Dynamics|Ottawa, ON| [Software Engineering Co-op](https://cacoop-gdms.icims.com/jobs/58290/job?mobile=false&width=1252&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|Summer 2023|4-12 Months|
 |D2L|Multiple Locations| [Software Developer Co-op](https://www.d2l.com/careers/early-talent/jobs/)|Summer 2023|4, 12-16 Months, Remote|
+
