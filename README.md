@@ -74,4 +74,4 @@ To contribute:
 |Entrust|Ottawa, ON| [Intern - Software Development - Certificate Solutions](https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/Canada---Ottawa/Intern-16-month-term---Software-Development---Certificate-Solutions_R001915)|?|16 months|
 |General Dynamics|Ottawa, ON| [Software Engineering Co-op](https://cacoop-gdms.icims.com/jobs/58290/job?mobile=false&width=1252&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|Summer 2023|4-12 Months|
 |D2L|Multiple Locations| [Software Developer Co-op](https://www.d2l.com/careers/early-talent/jobs/)|Summer 2023|4, 12-16 Months, Remote|
-
+|Wealthsimple|Toronto, ON / Remote| [Software Engineering Internship (Summer 2023)](https://jobs.lever.co/wealthsimple/05ce914d-b415-4a75-a66a-01b65fa1c912)|Summer 2023|4 or 8 Months|
