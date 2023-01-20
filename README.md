@@ -18,10 +18,10 @@ To contribute:
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Google                                                                                    | Waterloo, ON; Toronto, ON; Montreal,ON| **[Closed]** ~~Software Development Intern~~| Summer||
 | Dropbox|Canada(Remote)| **[Closed]** ~~Site Reliability Engineering Intern~~| Summer
-|Mark43| Toronto,ON| [Engineering Intern](https://mark43.com/list-job/?gh_jid=4657411&gh_src=feecb3ef1us)| Summer
-|Intuit| Toronto,ON; Edmonton,AB| [Software Developer Co-op](http://jobs.intuit.com/job/toronto/software-developer-co-op/27595/35936209984?utm_source=copy&utm_medium=social_post&utm_campaign=Intuit_social) , [UX Design Co-op](https://jobs.intuit.com/job/toronto/ux-design-co-op/27595/35936210320?utm_source=copy&utm_medium=social_post&utm_campaign=Intuit_social), [Software Developer Co-op 12 Months](http://jobs.intuit.com/job/edmonton/software-developer-co-op-12-months/27595/38666819776?utm_source=copy&utm_medium=social_post&utm_campaign=Intuit_social)|Winter(Jan-Apr)| 4-months and 12 months available
-|Ripple|Toronto, ON| [Data Engineer Intern](https://boards.greenhouse.io/ripple/jobs/4708630) , [Software Engineer, RippleNet Payments Intern](https://boards.greenhouse.io/ripple/jobs/4704718)| Summer
-|Siemens| Oakville,ON(Remote)| [Engineering/Programming Co-op (Computer Science)](https://jobs.siemens.com/jobs/340993?lang=en-us&jobPipeline=Indeed)
+|Mark43| Toronto,ON| **[Closed]** ~~Engineering Intern~~| Summer
+|Intuit| Toronto,ON; Edmonton,AB| **[Closed]** ~~Software Developer Co-op~~ , **[Closed]** ~~UX Design Co-op~~ , **[Closed]** ~~Software Developer Co-op 12 Months~~ |Winter(Jan-Apr)| 4-months and 12 months available
+|Ripple|Toronto, ON| **[Closed]** ~~Data Engineer Intern~~ , **[Closed]** ~~Software Engineer, RippleNet Payments Intern~~ | Summer
+|Siemens| Oakville,ON(Remote)| **[Closed]** ~~Engineering/Programming Co-op (Computer Science)~~ 
 |Mackenzie Financial Corporation| Toronto,ON| [SOC Analyst Intern (Security Engineering)](https://careersen-mackenzieinvestments.icims.com/jobs/4642/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Winter
 |Kepler Communications| Toronto, ON| [Embedded Software Engineering Intern](https://jobs.lever.co/kepler/9199ebb4-896d-4b88-95bd-2d1d1af40fee)| Winter| 4-16 months
 |Celestica International Inc.| Toronto, ON| [Operations Engineering Intern](https://careers.celestica.com/job/Toronto-Student-Intern-IL-ON/850373101/)| Summer| 16 months
@@ -74,3 +74,6 @@ To contribute:
 |General Dynamics|Ottawa, ON| [Software Engineering Co-op](https://cacoop-gdms.icims.com/jobs/58290/job?mobile=false&width=1252&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|Summer 2023|4-12 Months|
 |D2L|Multiple Locations| [Software Developer Co-op](https://www.d2l.com/careers/early-talent/jobs/)|Summer 2023|4, 12-16 Months, Remote|
 |Wealthsimple|Toronto, ON / Remote| [Software Engineering Internship (Summer 2023)](https://jobs.lever.co/wealthsimple/05ce914d-b415-4a75-a66a-01b65fa1c912)|Summer 2023|4 or 8 Months|
+|CMAI - SPOT| Montreal, QC | [Software Developer – Sentinel Team](https://placementspot.ca/stages/developpeur-de-logiciels-equipe-sentinel-1) | Summer 2023 | 4 months |
+|Huawei Technologies Canada Co., Ltd.| Markham, ON | [Co-op Software Engineer](https://huaweicanada.recruitee.com/o/coop-software-engineer) |Summer 2023 | 4 months, Submit your application on BOTH Company Application Portal and School Portal (Oscarplus) | 
+|Citibank| Mississauga, ON | [ICG Technology Summer Analyst, Software Development](https://jobs.citi.com/job/mississauga/icg-technology-summer-analyst-software-development-mississauga-canada-north-america-2023/287/34928404096) | Summer 2023 | 4 months |
