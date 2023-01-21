@@ -22,7 +22,7 @@ To contribute:
 |Intuit| Toronto,ON; Edmonton,AB| **[Closed]** ~~Software Developer Co-op~~ , **[Closed]** ~~UX Design Co-op~~ , **[Closed]** ~~Software Developer Co-op 12 Months~~ |Winter(Jan-Apr)| 4-months and 12 months available
 |Ripple|Toronto, ON| **[Closed]** ~~Data Engineer Intern~~ , **[Closed]** ~~Software Engineer, RippleNet Payments Intern~~ | Summer
 |Siemens| Oakville,ON(Remote)| **[Closed]** ~~Engineering/Programming Co-op (Computer Science)~~ 
-|Mackenzie Financial Corporation| Toronto,ON| [SOC Analyst Intern (Security Engineering)](https://careersen-mackenzieinvestments.icims.com/jobs/4642/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Winter
+|Mackenzie Financial Corporation| Toronto,ON| **[Closed]** ~~[SOC Analyst Intern (Security Engineering)]~~| Winter
 |Kepler Communications| Toronto, ON| [Embedded Software Engineering Intern](https://jobs.lever.co/kepler/9199ebb4-896d-4b88-95bd-2d1d1af40fee)| Winter| 4-16 months
 |Celestica International Inc.| Toronto, ON| [Operations Engineering Intern](https://careers.celestica.com/job/Toronto-Student-Intern-IL-ON/850373101/)| Summer| 16 months
 | Konrad| Toronto, ON| [Software Developer Intern](https://boards.greenhouse.io/konradgroup/jobs/5268040003)| Summer| 4 months
