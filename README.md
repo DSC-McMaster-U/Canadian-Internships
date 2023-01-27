@@ -83,3 +83,4 @@ To contribute:
 | Blackbery | Waterloo, ON | [Software Development Student](https://bb.wd3.myworkdayjobs.com/en-US/Student/jobs/details/Software-Development-Student---4-Month-Summer-Term_20222139) | Summer 2023 | 4 months |
 | Nasdaq | Toronto - Ontario | [Software Engineering Intern](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 |  |
 | Genetec | Montreal, QC | [Software Developer - Cloud](https://apply.workable.com/genetec-inc/j/453BD3A0A4/) | Summer 2023 |  |
+|Meta University|Menlo Park,CA,USA |[Engineering Summer 2023](https://www.metacareers.com/v2/jobs/875414340161910/)|Summer 2023| first and second year students in US, Canada,Mexico|
