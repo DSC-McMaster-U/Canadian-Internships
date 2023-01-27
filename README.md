@@ -44,7 +44,7 @@ To contribute:
 |AMD| Markham, ON|  **[Closed]**  ~~Software Program Management in Gaming/Workstation and Cloud-Virtualization Intern, ASIC Design Co-Op - Co-Op/ Intern, Multimedia Drivers Team Co-op~~|Summer 2023-Fall 2024| 12-months
 |Vidyard| Canada(Remote)|  **[Closed]** ~~[Software Developer Co-op]~~| Summer 2023|
 |TD Bank|Toronto, ON|  **[Closed]** ~~[Cloud/DevOps Engineer Co-op]~~| Summer 2023|
-|Apply Digital|Toronto, ON| [Software Engineer Co-op (Web)](https://ca.indeed.com/cmp/Apply-Digital?from=mobviewjob&tk=1gjpod3aqih33801&fromjk=bcce7fe38e53ee66&attributionid=mobvjcmp), [Software Engineer Co-op (Mobile)](https://apply-digital.breezy.hr/p/740c92f885ae-software-engineer-co-op-mobile)||hybrid/remote-friendly|
+|Apply Digital|Toronto, ON|  **[Closed]**  ~~Software Engineer Co-op (Web), Software Engineer Co-op (Mobile)~~||hybrid/remote-friendly|
 |Canada Life|Toronto, ON|  **[Closed]** ~~[Associate Software Developer Co-op]~~||
 |ERCO Worldwide|Mississauga, ON|  **[Closed]** ~~[Web Developer - Coop]~~||
 |IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
