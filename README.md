@@ -35,13 +35,13 @@ To contribute:
 | Binance| Toronto, ON(On-site and Remote)|  **[Closed]** ~~[Software Quality Assurance Engineer]~~
 | Interac| Toronto, ON|  **[Closed]** ~~[Software Developer]~~
 | EA Games| Vancouver, BC| [C++ Engineer Intern](https://ea.gr8people.com/jobs/175722/c-engineer-intern-summer-2023?geo_location=ChIJs0-pQ_FzhlQRi_OBm-qWkbs)| Summer
-| Snowflake| Toronto, ON| [Software Engineer Intern](https://careers.snowflake.com/us/en/job/6399242002/Software-Engineer-Intern-Toronto-Summer-2023)| Summer
-| Mastercard| Vancouver, BC| [Software Engineer Intern](https://careers.mastercard.com/us/en/job/R-173648/Software-Engineer-Intern)| Summer
+| Snowflake| Toronto, ON| **[Closed]** ~~Software Engineer Intern~~| Summer
+| Mastercard| Vancouver, BC| **[Closed]** ~~Software Engineer Intern~~| Summer
 | Slack| Vancouver, BC|  **[Closed]** ~~[Software Engineer Canada]~~| Summer
 | Marvell Technology| Ottawa, ON| [Software Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Software-Intern_2202289?src=SNS-102&source=LinkedIn)| Summer
 |Ansys| Waterloo,ON|  **[Closed]** ~~[Software Development and Testing Intern]~~|
 |Qualcomm|Markham,ON|  **[Closed]** ~~[SoC Software Engineering Internship]~~| Spring, Summer| 4 or 16 months available
-|AMD| Markham, ON| [Software Program Management in Gaming/Workstation and Cloud-Virtualization Intern](https://careers.amd.com/careers-home/jobs/23382?lang=en-us),       [ASIC Design Co-Op - Co-Op/ Intern](https://careers.amd.com/careers-home/jobs/23432?lang=en-us),  [Multimedia Drivers Team Co-op](https://careers.amd.com/careers-home/jobs/22181?lang=en-us)|Summer 2023-Fall 2024| 12-months
+|AMD| Markham, ON|  **[Closed]**  ~~Software Program Management in Gaming/Workstation and Cloud-Virtualization Intern, ASIC Design Co-Op - Co-Op/ Intern, Multimedia Drivers Team Co-op~~|Summer 2023-Fall 2024| 12-months
 |Vidyard| Canada(Remote)|  **[Closed]** ~~[Software Developer Co-op]~~| Summer 2023|
 |TD Bank|Toronto, ON|  **[Closed]** ~~[Cloud/DevOps Engineer Co-op]~~| Summer 2023|
 |Apply Digital|Toronto, ON| [Software Engineer Co-op (Web)](https://ca.indeed.com/cmp/Apply-Digital?from=mobviewjob&tk=1gjpod3aqih33801&fromjk=bcce7fe38e53ee66&attributionid=mobvjcmp), [Software Engineer Co-op (Mobile)](https://apply-digital.breezy.hr/p/740c92f885ae-software-engineer-co-op-mobile)||hybrid/remote-friendly|
