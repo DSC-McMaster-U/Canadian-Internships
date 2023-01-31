@@ -49,7 +49,7 @@ To contribute:
 |ERCO Worldwide|Mississauga, ON|  **[Closed]** ~~[Web Developer - Coop]~~||
 |IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
 |SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
-|Square|Toronto, ON| [Multiple roles](https://careers.squareup.com/ca/en/jobs?type%5B%5D=Intern&location%5B%5D=Kitchener%2C%20Canada&location%5B%5D=Toronto%2C%20Canada&location%5B%5D=Vancouver%2C%20Canada)|Summer 2023|Remote|
+|Square|Toronto, ON| **[Closed]** ~~[Multiple roles]~~|Summer 2023|Remote|
 |RBC|Toronto, ON. Calgary, AB|  **[Closed]** ~~[Summer Student Software Developer]~~|Summer 2023|
 |Bit Quill|Vancouver, BC|  **[Closed]** ~~[Co-op Developer]~~|?|Remote, Hybrid|
 |Affirm|Remote Canada|  **[Closed]** ~~[Software Engineer Intern 2023]~~|Summer 2023|12-16 weeks|
