@@ -66,7 +66,7 @@ To contribute:
 |Replit| Canada or United States|  **[Closed]** ~~[Various Engineering Roles]~~|Summer 2023|
 |George Weston|Toronto, ON| [Backend Development Intern](https://ca.indeed.com/cmp/George-Weston-Limited/jobs)| |Full-time Co-op, Remote|
 |Guidewire Software|Toronto, ON| [Summer 2023 Software Engineering Co-op](https://www.linkedin.com/jobs/view/3371652226)|Summer 2023| 4 Months, Hybrid |
-|Ontario Energy Board|Toronto, ON| [Engineering Co-op Student 2023](https://careers-oeb.icims.com/jobs/1412/engineering-co-op-student-2023/job)|| 12 Months |
+|Ontario Energy Board|Toronto, ON| **[Closed]** ~~Engineering Co-op Student 2023~~|| 12 Months |
 |Ceridian|Toronto, ON| [Multiple Software Developer Intern roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=Software+Developer+Intern)|4 or 8 months |Remote|
 |Cowbell|Toronto, ON| [Software Engineer (Platform) Intern](https://boards.greenhouse.io/cowbellcyber/jobs/5432241003)|Jan 2023|4 Months, Remote|
 |Inworld|Vancouver, BC|  **[Closed]** ~~[Software Engineering Intern]~~|Summer 2023|12-16 weeks, Remote|
