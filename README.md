@@ -84,4 +84,5 @@ To contribute:
 | Nasdaq | Toronto - Ontario | [Software Engineering Intern](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 |  |
 | Genetec | Montreal, QC | [Software Developer - Cloud](https://apply.workable.com/genetec-inc/j/453BD3A0A4/) | Summer 2023 |  |
 |Meta University|Menlo Park,CA,USA |[Engineering Summer 2023](https://www.metacareers.com/v2/jobs/875414340161910/)|Summer 2023| first and second year students in US, Canada,Mexico|
-|1Password| Canada(Remote) | [Developer Intern - User Lifecycle & Growth](https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a)| Summer 2023|
+|1Password| Canada(Remote) | [Developer Intern - User Lifecycle & Growth](https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a)|Summer 2023|
+|Axon|Canada(Remote)| [Embedded Systems Engineering Internship](https://boards.greenhouse.io/axon/jobs/5354203003?gh_src=cdbb51d93us)| Summer 2023|
