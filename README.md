@@ -86,3 +86,8 @@ To contribute:
 |Meta University|Menlo Park,CA,USA |[Engineering Summer 2023](https://www.metacareers.com/v2/jobs/875414340161910/)|Summer 2023| first and second year students in US, Canada,Mexico|
 |1Password| Canada(Remote) | [Developer Intern - User Lifecycle & Growth](https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a)|Summer 2023|
 |Axon|Canada(Remote)| **[Closed]** ~~[Embedded Systems Engineering Internship]~~| Summer 2023|
+|RBC| MISSISSAUGA, Ontario, Canada | [Insurance-Data Engineer - Co-op]([https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/Data-Engineer---Co-op_R-0000044874))|Summer 2023|
+|Nokia| Ottawa, Ontario, Canada | [5G Cloud Engineer Co-op/Intern](https://careers.nokia.com/jobs/5g-cloud-engineer-co-op-intern-95209)| Summer 2023 | 4 or 8 months|
+|Ulula| Hybrid/Toronto, ON| [Software Development Intern](https://goodandwell.ca/wp-content/uploads/2023/01/2023-Ulula-Software-Development-Intern.pdf)|Summer 2023| 4 months |
+|Tucows| Remote, Canada | [Systems Administrator, Intern - Remote](https://boards.greenhouse.io/tucowscampusrecruitment/jobs/5485468003?gh_src=b82acda93us)|Summer/Fall 2023| 4, 8 or 12 months|
+|Hatch| Mississauga, Ontario, Canada| [Hydrotechnical Co-op Student](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=86003&company=hatchassocP&st=2A9CCC837942B835412A9AC69DD5ADF55BA5AEB6)|Summer 2023|
