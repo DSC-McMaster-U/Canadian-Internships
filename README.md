@@ -55,7 +55,7 @@ To contribute:
 |Affirm|Remote Canada|  **[Closed]** ~~[Software Engineer Intern 2023]~~|Summer 2023|12-16 weeks|
 |Scotiabank|Toronto, ON| [Multiple Roles (Velocity)](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA)|Summer 2023|4 or 8 Months. Apply by December 31 2022| 
 |Veeva|Toronto, ON|  **[Closed]** ~~[Intern Release Engineer]~~|?|8 Months|
-|Parallel Domain|Vancouver, BC| [Software Engineering Intern](https://jobs.lever.co/paralleldomain/9c2e97be-1e2f-454a-87e2-b0b4bd531252)|?|12-16 weeks (Hybrid)|
+|Parallel Domain|Vancouver, BC| **[Closed]** ~~[Software Engineering Intern]~~|?|12-16 weeks (Hybrid)|
 |Ceridian|Toronto, ON| [Multiple Roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=intern&locationString=toronto&distance=100)|Winter, Summer 2023|4-12 Months (Remote)|
 |Thales|Ottawa, ON| [Multiple Roles](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?workerSubType=47200b8529d910215e133a260a722492&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)|?|?|
 |Loblaws|Toronto, Brampton, ON| [Multiple Roles](https://myview.wd3.myworkdayjobs.com/loblaw_careers_carrieres/?q=software)|Summer 2023|4-12 Months|
@@ -78,11 +78,11 @@ To contribute:
 |Huawei Technologies Canada Co., Ltd.| Markham, ON | [Co-op Software Engineer](https://huaweicanada.recruitee.com/o/coop-software-engineer) |Summer 2023 | 4 months, Submit your application on BOTH Company Application Portal and School Portal (Oscarplus) | 
 |Citibank| Mississauga, ON |  **[Closed]** ~~[ICG Technology Summer Analyst, Software Development]~~ | Summer 2023 | 4 months |
 |Intuit| Toronto, ON | [Software Developer](https://jobs.intuit.com/job/toronto/software-developer-co-op-summer-2023-4-months/27595/41800278192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 |
-|Learn4Good| Hamilton, ON | [Software Engineering/Front End](https://www.learn4good.com/jobs/hamilton/canada/software_development/2012492168/e/) | Fall 2023 |
+|Learn4Good| Hamilton, ON | **[Closed]** ~~[Software Engineering/Front End]~~ | Fall 2023 |
 |CanadaLife| Toronto, ON | [Associate Software Developer](https://www.linkedin.com/jobs/view/associate-software-developer-co-op-at-canada-life-3450531175/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | ? |
 | Blackbery | Waterloo, ON | [Software Development Student](https://bb.wd3.myworkdayjobs.com/en-US/Student/jobs/details/Software-Development-Student---4-Month-Summer-Term_20222139) | Summer 2023 | 4 months |
 | Nasdaq | Toronto - Ontario | [Software Engineering Intern](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 |  |
 | Genetec | Montreal, QC | [Software Developer - Cloud](https://apply.workable.com/genetec-inc/j/453BD3A0A4/) | Summer 2023 |  |
 |Meta University|Menlo Park,CA,USA |[Engineering Summer 2023](https://www.metacareers.com/v2/jobs/875414340161910/)|Summer 2023| first and second year students in US, Canada,Mexico|
 |1Password| Canada(Remote) | [Developer Intern - User Lifecycle & Growth](https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a)|Summer 2023|
-|Axon|Canada(Remote)| [Embedded Systems Engineering Internship](https://boards.greenhouse.io/axon/jobs/5354203003?gh_src=cdbb51d93us)| Summer 2023|
+|Axon|Canada(Remote)| **[Closed]** ~~[Embedded Systems Engineering Internship]~~| Summer 2023|
