@@ -93,3 +93,5 @@ To contribute:
 |Hatch| Mississauga, Ontario, Canada| [Hydrotechnical Co-op Student](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=86003&company=hatchassocP&st=2A9CCC837942B835412A9AC69DD5ADF55BA5AEB6)|Summer 2023|
 |Schneider Electrics| Victoria, BC | [Firmware Engineering Co-op Student](https://careers.se.com/global/jobs/46029?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin)||
 |AppLovin| Toronto, ON | [Backend Software Engineering Intern](https://jobs.lever.co/applovin/de10fcfa-bb39-41ec-95fa-a72ed9b6484d)| Summer 2023
+|Nasdaq | Toronto, ON | [Software Engineering Intern - US & Canada 2023 Internship](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 |
+| Sun Life | Toronto, ON, Waterloo, ON | [Data Engineer Co-op](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Data-Engineer-Co-op_JR00075375) | |
