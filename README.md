@@ -95,3 +95,6 @@ To contribute:
 |AppLovin| Toronto, ON | [Backend Software Engineering Intern](https://jobs.lever.co/applovin/de10fcfa-bb39-41ec-95fa-a72ed9b6484d)| Summer 2023
 |Nasdaq | Toronto, ON | [Software Engineering Intern - US & Canada 2023 Internship](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 |
 | Sun Life | Toronto, ON, Waterloo, ON | [Data Engineer Co-op](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Data-Engineer-Co-op_JR00075375) | |
+| Lyft| Montreal, QC| [Software Engineering Intern](https://app.careerpuck.com/job-board/lyft/job/6559125002?gh_jid=6559125002)| Summer 2023| 3 months |
+| Okta | Toronto, ON (Remote) | [Quality Engineering Intern](https://www.okta.com/company/careers/quality-engineering-intern-summer-2023-4633944/) | Summer 2023 | 4 months |
+| City of Ottawa | Ottawa, ON | [Summer Student-Programmer Developer/Integrator Assistant](https://jobs-emplois.ottawa.ca/city-jobs/job/Ottawa%2C-ON-Summer-Student-Programmer-DeveloperIntegrator-Assistant-ON/727176947/) | Summer 2023 | |
