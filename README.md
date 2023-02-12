@@ -26,7 +26,7 @@ To contribute:
 |Kepler Communications| Toronto, ON| [Embedded Software Engineering Intern](https://jobs.lever.co/kepler/9199ebb4-896d-4b88-95bd-2d1d1af40fee)| Winter| 4-16 months
 |Celestica International Inc.| Toronto, ON| **[Closed]** ~~[Operations Engineering Intern]~~| Summer| 16 months
 | Konrad| Toronto, ON| [Software Developer Intern](https://boards.greenhouse.io/konradgroup/jobs/5268040003)| Summer| 4 months
-| Tesla| Richmond Hill, ON| [Controls Software Automation Engineer](https://www.tesla.com/en_CA/careers/search/job/tesla-toronto-controls-software-automation-engineering-internship-co-op-summer-2023-159049)| Summer
+| Tesla| Richmond Hill, ON| **[Closed]** ~~[Controls Software Automation Engineer]~~| Summer
 | Microsoft| Vancouver, BC| **[Closed]** ~~[Software Engineering]~~
 | Amazon| Vancouver, BC| [Software Development Engineer](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada)  
 | Momentive.ai| Ottawa, ON(Remote)| [Data Science Intern](https://www.glassdoor.ca/job-listing/data-science-intern-summer-2023-momentive-ai-JV_IC2286068_KO0,31_KE32,44.htm?jl=1008280713692&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer| For students pursuing a Master Degree or PhD 
@@ -98,3 +98,6 @@ To contribute:
 | Lyft| Montreal, QC| [Software Engineering Intern](https://app.careerpuck.com/job-board/lyft/job/6559125002?gh_jid=6559125002)| Summer 2023| 3 months |
 | Okta | Toronto, ON (Remote) | [Quality Engineering Intern](https://www.okta.com/company/careers/quality-engineering-intern-summer-2023-4633944/) | Summer 2023 | 4 months |
 | City of Ottawa | Ottawa, ON | [Summer Student-Programmer Developer/Integrator Assistant](https://jobs-emplois.ottawa.ca/city-jobs/job/Ottawa%2C-ON-Summer-Student-Programmer-DeveloperIntegrator-Assistant-ON/727176947/) | Summer 2023 | |
+| UKG | Toronto, ON | [Software Developer Coop/Intern - Summer 2023](https://careers.ukg.com/careers/JobDetail/Software-Developer-Coop-Intern-Summer-2023/43682) | Summer 2023 | |
+| The Home Depot | Toronto, ON (Remote) | [2023 Summer Student Internship/Co-op Opportunity – Software Developer Front-end/back-end Intern](https://careers.homedepot.ca/job-view/internship-co-op-software-developer-front-end-back-end-intern-remote-1452446) | Summer 2023 | 4 months |
+| Intact | Toronto, ON | [Data engineering Developer – 4 Month Co-op/Internship (Summer 2023)](https://careers.intactfc.com/ca/en/job/IFCOUSR133487INTACTINSURANCEENCA/Data-engineering-Developer-4-Month-Co-op-Internship-Summer-2023) | Summer 2023 | 4 months |
