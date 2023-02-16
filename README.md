@@ -29,7 +29,7 @@ To contribute:
 | Tesla| Richmond Hill, ON| **[Closed]** ~~[Controls Software Automation Engineer]~~| Summer
 | Microsoft| Vancouver, BC| **[Closed]** ~~[Software Engineering]~~
 | Amazon| Vancouver, BC| [Software Development Engineer](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada)  
-| Momentive.ai| Ottawa, ON(Remote)| [Data Science Intern](https://www.glassdoor.ca/job-listing/data-science-intern-summer-2023-momentive-ai-JV_IC2286068_KO0,31_KE32,44.htm?jl=1008280713692&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer| For students pursuing a Master Degree or PhD 
+| Momentive.ai| Ottawa, ON(Remote)| **[Closed]** ~~[Data Science Intern]~~ | Summer| For students pursuing a Master Degree or PhD 
 | Salesforce| Toronto, ON|  **[Closed]** ~~[Software Engineer - Slack]~~| Summer
 | Adobe| Toronto, ON| [Research Scientists/Engineer](https://careers.adobe.com/us/en/job/ADOBUSR133694EXTERNALENUS/2023-Intern-Research-Scientist-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Spring, Summer and Fall| For students pursuing a Masters Degree or PhD
 | Binance| Toronto, ON(On-site and Remote)|  **[Closed]** ~~[Software Quality Assurance Engineer]~~
@@ -72,7 +72,7 @@ To contribute:
 |Inworld|Vancouver, BC|  **[Closed]** ~~[Software Engineering Intern]~~|Summer 2023|12-16 weeks, Remote|
 |Entrust|Ottawa, ON|  **[Closed]** ~~[Intern - Software Development - Certificate Solutions]~~|?|16 months|
 |General Dynamics|Ottawa, ON|  **[Closed]** ~~[Software Engineering Co-op]~~|Summer 2023|4-12 Months|
-|D2L|Multiple Locations| [Software Developer Co-op](https://www.d2l.com/careers/early-talent/jobs/)|Summer 2023|4, 12-16 Months, Remote|
+|D2L|Multiple Locations| **[Closed]** ~~[Software Developer Co-op]~~|Summer 2023|4, 12-16 Months, Remote|
 |Wealthsimple|Toronto, ON / Remote| [Software Engineering Internship (Summer 2023)](https://jobs.lever.co/wealthsimple/05ce914d-b415-4a75-a66a-01b65fa1c912)|Summer 2023|4 or 8 Months|
 |CMAI - SPOT| Montreal, QC | [Software Developer – Sentinel Team](https://placementspot.ca/stages/developpeur-de-logiciels-equipe-sentinel-1) | Summer 2023 | 4 months |
 |Huawei Technologies Canada Co., Ltd.| Markham, ON | [Co-op Software Engineer](https://huaweicanada.recruitee.com/o/coop-software-engineer) |Summer 2023 | 4 months, Submit your application on BOTH Company Application Portal and School Portal (Oscarplus) | 
@@ -90,7 +90,7 @@ To contribute:
 |Nokia| Ottawa, Ontario, Canada | [5G Cloud Engineer Co-op/Intern](https://careers.nokia.com/jobs/5g-cloud-engineer-co-op-intern-95209)| Summer 2023 | 4 or 8 months|
 |Ulula| Hybrid/Toronto, ON|  **[Closed]** ~~[Software Development Intern]~~|Summer 2023| 4 months |
 |Tucows| Remote, Canada | [Systems Administrator, Intern - Remote](https://boards.greenhouse.io/tucowscampusrecruitment/jobs/5485468003?gh_src=b82acda93us)|Summer/Fall 2023| 4, 8 or 12 months|
-|Hatch| Mississauga, Ontario, Canada| [Hydrotechnical Co-op Student](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=86003&company=hatchassocP&st=2A9CCC837942B835412A9AC69DD5ADF55BA5AEB6)|Summer 2023|
+|Hatch| Mississauga, Ontario, Canada| **[Closed]** ~~[Hydrotechnical Co-op Student]~~|Summer 2023|
 |Schneider Electrics| Victoria, BC | [Firmware Engineering Co-op Student](https://careers.se.com/global/jobs/46029?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin)||
 |AppLovin| Toronto, ON | [Backend Software Engineering Intern](https://jobs.lever.co/applovin/de10fcfa-bb39-41ec-95fa-a72ed9b6484d)| Summer 2023
 |Nasdaq | Toronto, ON | [Software Engineering Intern - US & Canada 2023 Internship](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Summer 2023 |
