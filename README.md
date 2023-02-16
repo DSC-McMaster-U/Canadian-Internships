@@ -103,3 +103,5 @@ To contribute:
 | Intact | Toronto, ON | [Data engineering Developer – 4 Month Co-op/Internship (Summer 2023)](https://careers.intactfc.com/ca/en/job/IFCOUSR133487INTACTINSURANCEENCA/Data-engineering-Developer-4-Month-Co-op-Internship-Summer-2023) | Summer 2023 | 4 months |
 | Electronic Arts| Vancouver, BC| [Software Engineering Co-op](https://ea.gr8people.com/jobs/177538/software-engineer-co-op-ufc)|
 |HP| Burnaby,BC| [Associate Software Developer – HP Anyware (Co-op position)](https://jobs.hp.com/jobdetails/17812320/associate-software-developer-hp-anyware-co-op-position-burnaby-ca/)| Summer 2023
+| Telus | Toronto, ON, CA | [Client Data Analytics Specialist - Co-op Student](https://careers.telus.com/job/Toronto-Client-Data-Analytics-Specialist-Co-op-Student-ON/567830317/) | May 2023 - 4 or 8 months |
+| Hatch | Niagara Falls, ON, Canada | [Structural Engineering Co-op](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=85971&company=hatchassocP&st=85B1DB169D4DABFAE01B076F0C6AFC61F33651EE) | May 2023 - 4 months |
