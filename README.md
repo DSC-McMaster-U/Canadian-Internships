@@ -101,3 +101,4 @@ To contribute:
 | UKG | Toronto, ON | [Software Developer Coop/Intern - Summer 2023](https://careers.ukg.com/careers/JobDetail/Software-Developer-Coop-Intern-Summer-2023/43682) | Summer 2023 | |
 | The Home Depot | Toronto, ON (Remote) | [2023 Summer Student Internship/Co-op Opportunity – Software Developer Front-end/back-end Intern](https://careers.homedepot.ca/job-view/internship-co-op-software-developer-front-end-back-end-intern-remote-1452446) | Summer 2023 | 4 months |
 | Intact | Toronto, ON | [Data engineering Developer – 4 Month Co-op/Internship (Summer 2023)](https://careers.intactfc.com/ca/en/job/IFCOUSR133487INTACTINSURANCEENCA/Data-engineering-Developer-4-Month-Co-op-Internship-Summer-2023) | Summer 2023 | 4 months |
+| Electronic Arts| Vancouver, BC| [Software Engineering Co-op](https://ea.gr8people.com/jobs/177538/software-engineer-co-op-ufc)|
