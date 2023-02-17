@@ -53,7 +53,7 @@ To contribute:
 |RBC|Toronto, ON. Calgary, AB|  **[Closed]** ~~[Summer Student Software Developer]~~|Summer 2023|
 |Bit Quill|Vancouver, BC|  **[Closed]** ~~[Co-op Developer]~~|?|Remote, Hybrid|
 |Affirm|Remote Canada|  **[Closed]** ~~[Software Engineer Intern 2023]~~|Summer 2023|12-16 weeks|
-|Scotiabank|Toronto, ON| [Multiple Roles (Velocity)](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA)|Summer 2023|4 or 8 Months. Apply by December 31 2022| 
+|Scotiabank|Toronto, ON| **[Closed]** ~~[Multiple Roles (Velocity)]~~|Summer 2023|4 or 8 Months. Apply by December 31 2022| 
 |Veeva|Toronto, ON|  **[Closed]** ~~[Intern Release Engineer]~~|?|8 Months|
 |Parallel Domain|Vancouver, BC| **[Closed]** ~~[Software Engineering Intern]~~|?|12-16 weeks (Hybrid)|
 |Ceridian|Toronto, ON| [Multiple Roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=intern&locationString=toronto&distance=100)|Winter, Summer 2023|4-12 Months (Remote)|
