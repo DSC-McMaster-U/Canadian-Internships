@@ -16,13 +16,6 @@ To contribute:
 
 | Company Name                                                                                                                                                                         | Location                             | Role                             |Hiring Season                    | Notes                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Google                                                                                    | Waterloo, ON; Toronto, ON; Montreal,ON| **[Closed]** ~~Software Development Intern~~| Summer||
-| Dropbox|Canada(Remote)| **[Closed]** ~~Site Reliability Engineering Intern~~| Summer
-|Mark43| Toronto,ON| **[Closed]** ~~Engineering Intern~~| Summer
-|Intuit| Toronto,ON; Edmonton,AB| **[Closed]** ~~Software Developer Co-op~~ , **[Closed]** ~~UX Design Co-op~~ , **[Closed]** ~~Software Developer Co-op 12 Months~~ |Winter(Jan-Apr)| 4-months and 12 months available
-|Ripple|Toronto, ON| **[Closed]** ~~Data Engineer Intern~~ , **[Closed]** ~~Software Engineer, RippleNet Payments Intern~~ | Summer
-|Siemens| Oakville,ON(Remote)| **[Closed]** ~~Engineering/Programming Co-op (Computer Science)~~ 
-|Mackenzie Financial Corporation| Toronto,ON| **[Closed]** ~~[SOC Analyst Intern (Security Engineering)]~~| Winter
 |Kepler Communications| Toronto, ON| [Embedded Software Engineering Intern](https://jobs.lever.co/kepler/9199ebb4-896d-4b88-95bd-2d1d1af40fee)| Winter| 4-16 months
 |Celestica International Inc.| Toronto, ON| **[Closed]** ~~[Operations Engineering Intern]~~| Summer| 16 months
 | Konrad| Toronto, ON| [Software Developer Intern](https://boards.greenhouse.io/konradgroup/jobs/5268040003)| Summer| 4 months
