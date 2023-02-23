@@ -75,3 +75,4 @@ To contribute:
 | Charles River Associates | Toronto, ON | [Cyber and Forensic Technology Consultant Intern](https://www.linkedin.com/jobs/view/cyber-and-forensic-technology-consultant-intern-analyst-associate-intern-summer-2023-at-charles-river-associates-3340050928/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | Summer 2023 |
 | Activision | Vancouver | [Software Development Internship](https://careers.activision.com/job/R019050/Software-Development-Internship-Summer-2023) | May 2023 - 4 months |
 | Waabi | Toronto | [Research Internship](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace) | May 2023 - 4 months |
+|Samsung| Montreal, QC| [2023 Research Intern – Applied Reinforcement Learning](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/6514742002?gh_src=13c38d562us)||
