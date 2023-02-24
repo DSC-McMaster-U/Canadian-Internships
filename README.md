@@ -76,3 +76,4 @@ To contribute:
 | Activision | Vancouver | [Software Development Internship](https://careers.activision.com/job/R019050/Software-Development-Internship-Summer-2023) | May 2023 - 4 months |
 | Waabi | Toronto | [Research Internship](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace) | May 2023 - 4 months |
 |Samsung| Montreal, QC| [2023 Research Intern – Applied Reinforcement Learning](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/6514742002?gh_src=13c38d562us)||
+|ResMed| Halifax, NS| [Associate Engineer (Internship/Co-op), Software (App) Engineering](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Associate-Engineer--Internship-)|May-Aug 2023|
