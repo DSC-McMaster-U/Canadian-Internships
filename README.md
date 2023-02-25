@@ -21,7 +21,7 @@ To contribute:
 | Adobe| Toronto, ON| [Research Scientists/Engineer](https://careers.adobe.com/us/en/job/ADOBUSR133694EXTERNALENUS/2023-Intern-Research-Scientist-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Spring, Summer and Fall| For students pursuing a Masters Degree or PhD|
 | Amazon| Vancouver, BC| [Software Development Engineer](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada)| Summer, Fall|
 | Binance| Toronto, ON(On-site and Remote)|  **[Closed]** ~~[Software Quality Assurance Engineer]~~
-| EA Games| Vancouver, BC| [C++ Engineer Intern](https://ea.gr8people.com/jobs/175722/c-engineer-intern-summer-2023?geo_location=ChIJs0-pQ_FzhlQRi_OBm-qWkbs)| Summer
+| EA Games| Vancouver, BC| **[Closed]** ~~[C++ Engineer Intern]~~| Summer
 | Marvell Technology| Ottawa, ON| [Software Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Software-Intern_2202289?src=SNS-102&source=LinkedIn)| Summer
 |IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
 |SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
@@ -42,7 +42,7 @@ To contribute:
 |D2L|Multiple Locations| **[Closed]** ~~[Software Developer Co-op]~~|Summer 2023|4, 12-16 Months, Remote|
 |Wealthsimple|Toronto, ON / Remote| [Software Engineering Internship (Summer 2023)](https://jobs.lever.co/wealthsimple/05ce914d-b415-4a75-a66a-01b65fa1c912)|Summer 2023|4 or 8 Months|
 |CMAI - SPOT| Montreal, QC | [Software Developer – Sentinel Team](https://placementspot.ca/stages/developpeur-de-logiciels-equipe-sentinel-1) | Summer 2023 | 4 months |
-|Huawei Technologies Canada Co., Ltd.| Markham, ON | [Co-op Software Engineer](https://huaweicanada.recruitee.com/o/coop-software-engineer) |Summer 2023 | 4 months, Submit your application on BOTH Company Application Portal and School Portal (Oscarplus) | 
+|Huawei Technologies Canada Co., Ltd.| Markham, ON | **[Closed]** ~~[Co-op Software Engineer]~~|Summer 2023 | 4 months, Submit your application on BOTH Company Application Portal and School Portal (Oscarplus) | 
 |Citibank| Mississauga, ON |  **[Closed]** ~~[ICG Technology Summer Analyst, Software Development]~~ | Summer 2023 | 4 months |
 |Intuit| Toronto, ON | [Software Developer](https://jobs.intuit.com/job/toronto/software-developer-co-op-summer-2023-4-months/27595/41800278192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 |
 |Learn4Good| Hamilton, ON | **[Closed]** ~~[Software Engineering/Front End]~~ | Fall 2023 |
@@ -77,3 +77,4 @@ To contribute:
 | Waabi | Toronto | [Research Internship](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace) | May 2023 - 4 months |
 |Samsung| Montreal, QC| [2023 Research Intern – Applied Reinforcement Learning](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/6514742002?gh_src=13c38d562us)||
 |ResMed| Halifax, NS| [Associate Engineer (Internship/Co-op), Software (App) Engineering](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Associate-Engineer--Internship-)|May-Aug 2023|
+|Citi| Mississauga, ON | [ICG Technology Summer Analyst, Software Development - Mississauga, Canada (North America - 2023)](https://jobs.citi.com/job/mississauga/icg-technology-summer-analyst-software-development-mississauga-canada-north-america-2023/287/44340226176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|May-Aug 2023|
