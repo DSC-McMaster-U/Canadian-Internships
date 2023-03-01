@@ -41,7 +41,7 @@ To contribute:
 |General Dynamics|Ottawa, ON|  **[Closed]** ~~[Software Engineering Co-op]~~|Summer 2023|4-12 Months|
 |D2L|Multiple Locations| **[Closed]** ~~[Software Developer Co-op]~~|Summer 2023|4, 12-16 Months, Remote|
 |Wealthsimple|Toronto, ON / Remote| [Software Engineering Internship (Summer 2023)](https://jobs.lever.co/wealthsimple/05ce914d-b415-4a75-a66a-01b65fa1c912)|Summer 2023|4 or 8 Months|
-|CMAI - SPOT| Montreal, QC | [Software Developer – Sentinel Team](https://placementspot.ca/stages/developpeur-de-logiciels-equipe-sentinel-1) | Summer 2023 | 4 months |
+|CMAI - SPOT| Montreal, QC | **[Closed]** ~~[Software Developer – Sentinel Team]~~ | Summer 2023 | 4 months |
 |Huawei Technologies Canada Co., Ltd.| Markham, ON | **[Closed]** ~~[Co-op Software Engineer]~~|Summer 2023 | 4 months, Submit your application on BOTH Company Application Portal and School Portal (Oscarplus) | 
 |Citibank| Mississauga, ON |  **[Closed]** ~~[ICG Technology Summer Analyst, Software Development]~~ | Summer 2023 | 4 months |
 |Intuit| Toronto, ON | [Software Developer](https://jobs.intuit.com/job/toronto/software-developer-co-op-summer-2023-4-months/27595/41800278192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 |
