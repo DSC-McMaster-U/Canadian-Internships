@@ -20,8 +20,6 @@ To contribute:
 | Konrad| Toronto, ON| [Software Developer Intern](https://boards.greenhouse.io/konradgroup/jobs/5268040003)| Summer| 4 months
 | Adobe| Toronto, ON| [Research Scientists/Engineer](https://careers.adobe.com/us/en/job/ADOBUSR133694EXTERNALENUS/2023-Intern-Research-Scientist-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Spring, Summer and Fall| For students pursuing a Masters Degree or PhD|
 | Amazon| Vancouver, BC| [Software Development Engineer](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada)| Summer, Fall|
-| Binance| Toronto, ON(On-site and Remote)|  **[Closed]** ~~[Software Quality Assurance Engineer]~~
-| EA Games| Vancouver, BC| **[Closed]** ~~[C++ Engineer Intern]~~| Summer
 | Marvell Technology| Ottawa, ON| [Software Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Software-Intern_2202289?src=SNS-102&source=LinkedIn)| Summer
 |IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
 |SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
@@ -29,11 +27,7 @@ To contribute:
 |Thales|Ottawa, ON| [Multiple Roles](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?workerSubType=47200b8529d910215e133a260a722492&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)|?|?|
 |Loblaws|Toronto, Brampton, ON| [Multiple Roles](https://myview.wd3.myworkdayjobs.com/loblaw_careers_carrieres/?q=software)|Summer 2023|4-12 Months|
 |Nokia| Multiple Locations| [Multiple Roles](https://careers.nokia.com/jobs/search/36839040)| Summer 2023, Fall 2023| 4 months (some roles can be extended to 8 months)|
-|Restaurant Brands International| Toronto,ON| **[Closed]** ~~[Technical Development Program Summer Internship]~~ | Summer 2023|
-|Replit| Canada or United States|  **[Closed]** ~~[Various Engineering Roles]~~|Summer 2023|
-|George Weston|Toronto, ON| **[Closed]** ~~[Backend Development Intern]~~| |Full-time Co-op, Remote|
 |Guidewire Software|Toronto, ON| [Summer 2023 Software Engineering Co-op](https://www.linkedin.com/jobs/view/3371652226)|Summer 2023| 4 Months, Hybrid |
-|Ontario Energy Board|Toronto, ON| **[Closed]** ~~Engineering Co-op Student 2023~~|| 12 Months |
 |Ceridian|Toronto, ON| [Multiple Software Developer Intern roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=Software+Developer+Intern)|4 or 8 months |Remote|
 |Cowbell|Toronto, ON| [Software Engineer (Platform) Intern](https://boards.greenhouse.io/cowbellcyber/jobs/5432241003)|Jan 2023|4 Months, Remote|
 |Inworld|Vancouver, BC|  **[Closed]** ~~[Software Engineering Intern]~~|Summer 2023|12-16 weeks, Remote|
