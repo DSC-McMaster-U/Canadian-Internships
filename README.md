@@ -88,4 +88,7 @@ To contribute:
 | CaseWare | Toronto, ON | [Software Eveloper Co-op](https://www.recruit.net/job/software-developer-co-op-jobs/70956A93450D8CAA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 | 4 months |
 | Pelmorex Corp. | Toronto, ON | [Software Developer, Technology Co-op](https://www.jobleads.com/en-ca/job/ed147916c3bd553edac06912b5f498efc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 | 4 months |
 | SS&C | Toronto, ON | [Full Stack Developer Co-op](https://www.linkedin.com/jobs/view/full-stack-developer-coop-at-ss-c-technologies-3464063984/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | Summer 2023 | 4 months |
+| Appen | Toronto, ON | [Data Engineer Intern] (https://jobs.lever.co/appen-2/8d666701-2fb1-4730-90cc-9dde539dd1dd) |  |  |
+| Patron Technology | Montreal, QC (Remote) | [Web Software Engineer Intern] (https://www.linkedin.com/jobs/view/3507543714/?alternateChannel=search&refId=p%2Fe4EMUbeQh%2FY1auMtisJw%3D%3D&trackingId=2Rkn1Cltso4CyB5Xl%2BWHkQ%3D%3D) | Summer 2023 | 3 months |
+
 
