@@ -85,3 +85,4 @@ To contribute:
 | Appen | Toronto, ON | [Data Engineer Intern](https://jobs.lever.co/appen-2/8d666701-2fb1-4730-90cc-9dde539dd1dd) |  |  |
 | Patron Technology | Montreal, QC (Remote) | [Web Software Engineer Intern](https://www.linkedin.com/jobs/view/3507543714/?alternateChannel=search&refId=p%2Fe4EMUbeQh%2FY1auMtisJw%3D%3D&trackingId=2Rkn1Cltso4CyB5Xl%2BWHkQ%3D%3D) | Summer 2023 | 3 months |
 | Canadian Space Agency (CSA) | Multiple Canada | [All Internships](https://www.asc-csa.gc.ca/eng/jobs/search-internships.asp) | Various | |
+|Autodesk| Toronto, ON | [Multiple Postions](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/details/Intern--Software-Engineer--Fall-2023-_23WD67857?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&workerSubType=39f5af07b0c54bc588b1a47788da7f81&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)| Summer, Fall 2023| 4 months
