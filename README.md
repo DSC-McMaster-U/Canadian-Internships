@@ -25,11 +25,11 @@ To contribute:
 |SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
 |Ceridian|Toronto, ON| [Multiple Roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=intern&locationString=toronto&distance=100)|Winter, Summer 2023|4-12 Months (Remote)|
 |Thales|Ottawa, ON| [Multiple Roles](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?workerSubType=47200b8529d910215e133a260a722492&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)|?|?|
-|Loblaws|Toronto, Brampton, ON| [Multiple Roles](https://myview.wd3.myworkdayjobs.com/loblaw_careers_carrieres/?q=software)|Summer 2023|4-12 Months|
+|Loblaws|Toronto, Brampton, ON| **[Closed]** ~~[Multiple Roles]~~|Summer 2023|4-12 Months|
 |Nokia| Multiple Locations| [Multiple Roles](https://careers.nokia.com/jobs/search/36839040)| Summer 2023, Fall 2023| 4 months (some roles can be extended to 8 months)|
 |Guidewire Software|Toronto, ON| [Summer 2023 Software Engineering Co-op](https://www.linkedin.com/jobs/view/3371652226)|Summer 2023| 4 Months, Hybrid |
 |Ceridian|Toronto, ON| [Multiple Software Developer Intern roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=Software+Developer+Intern)|4 or 8 months |Remote|
-|Cowbell|Toronto, ON| [Software Engineer (Platform) Intern](https://boards.greenhouse.io/cowbellcyber/jobs/5432241003)|Jan 2023|4 Months, Remote|
+|Cowbell|Toronto, ON| **[Closed]** ~~[Software Engineer (Platform) Intern]~~|Jan 2023|4 Months, Remote|
 |Inworld|Vancouver, BC|  **[Closed]** ~~[Software Engineering Intern]~~|Summer 2023|12-16 weeks, Remote|
 |Entrust|Ottawa, ON|  **[Closed]** ~~[Intern - Software Development - Certificate Solutions]~~|?|16 months|
 |General Dynamics|Ottawa, ON|  **[Closed]** ~~[Software Engineering Co-op]~~|Summer 2023|4-12 Months|
@@ -43,16 +43,16 @@ To contribute:
 |CanadaLife| Toronto, ON | **[Closed]** ~~[Associate Software Developer]~~ | ? |
 | Blackbery | Waterloo, ON | [Software Development Student](https://bb.wd3.myworkdayjobs.com/en-US/Student/jobs/details/Software-Development-Student---4-Month-Summer-Term_20222139) | Summer 2023 | 4 months |
 | Nasdaq | Toronto - Ontario | **[Closed]** ~~[Software Engineering Intern]~~ | Summer 2023 |  |
-| Genetec | Montreal, QC | [Software Developer - Cloud](https://apply.workable.com/genetec-inc/j/453BD3A0A4/) | Summer 2023 |  |
+| Genetec | Montreal, QC | **[Closed]** ~~[Software Developer - Cloud]~~ | Summer 2023 |  |
 |Meta University|Menlo Park,CA,USA | **[Closed]** ~~[Engineering Summer 2023]~~|Summer 2023| first and second year students in US, Canada,Mexico|
-|1Password| Canada(Remote) | [Developer Intern - User Lifecycle & Growth](https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a)|Summer 2023|
+|1Password| Canada(Remote) | **[Closed]** ~~[Developer Intern - User Lifecycle & Growth]~~ |Summer 2023|
 |Axon|Canada(Remote)| **[Closed]** ~~[Embedded Systems Engineering Internship]~~| Summer 2023|
 |RBC| MISSISSAUGA, Ontario, Canada | [Insurance-Data Engineer - Co-op]([https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/Data-Engineer---Co-op_R-0000044874))|Summer 2023|
-|Nokia| Ottawa, Ontario, Canada | [5G Cloud Engineer Co-op/Intern](https://careers.nokia.com/jobs/5g-cloud-engineer-co-op-intern-95209)| Summer 2023 | 4 or 8 months|
+|Nokia| Ottawa, Ontario, Canada | **[Closed]** ~~[5G Cloud Engineer Co-op/Intern]~~| Summer 2023 | 4 or 8 months|
 |Ulula| Hybrid/Toronto, ON|  **[Closed]** ~~[Software Development Intern]~~|Summer 2023| 4 months |
 |Tucows| Remote, Canada | **[Closed]** ~~[Systems Administrator, Intern - Remote]~~|Summer/Fall 2023| 4, 8 or 12 months|
 |Hatch| Mississauga, Ontario, Canada| **[Closed]** ~~[Hydrotechnical Co-op Student]~~|Summer 2023|
-|Schneider Electrics| Victoria, BC | [Firmware Engineering Co-op Student](https://careers.se.com/global/jobs/46029?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin)||
+|Schneider Electrics| Victoria, BC | **[Closed]** ~~[Firmware Engineering Co-op Student]~~||
 |AppLovin| Toronto, ON | [Backend Software Engineering Intern](https://jobs.lever.co/applovin/de10fcfa-bb39-41ec-95fa-a72ed9b6484d)| Summer 2023
 |Nasdaq | Toronto, ON | **[Closed]** ~~[Software Engineering Intern - US & Canada 2023 Internship]~~ | Summer 2023 |
 | Sun Life | Toronto, ON, Waterloo, ON | [Data Engineer Co-op](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Data-Engineer-Co-op_JR00075375) | |
