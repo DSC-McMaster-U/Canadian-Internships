@@ -25,11 +25,11 @@ To contribute:
 |SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
 |Ceridian|Toronto, ON| [Multiple Roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=intern&locationString=toronto&distance=100)|Winter, Summer 2023|4-12 Months (Remote)|
 |Thales|Ottawa, ON| [Multiple Roles](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?workerSubType=47200b8529d910215e133a260a722492&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)|?|?|
-|Loblaws|Toronto, Brampton, ON| [Multiple Roles](https://myview.wd3.myworkdayjobs.com/loblaw_careers_carrieres/?q=software)|Summer 2023|4-12 Months|
+|Loblaws|Toronto, Brampton, ON| **[Closed]** ~~[Multiple Roles]~~|Summer 2023|4-12 Months|
 |Nokia| Multiple Locations| [Multiple Roles](https://careers.nokia.com/jobs/search/36839040)| Summer 2023, Fall 2023| 4 months (some roles can be extended to 8 months)|
 |Guidewire Software|Toronto, ON| [Summer 2023 Software Engineering Co-op](https://www.linkedin.com/jobs/view/3371652226)|Summer 2023| 4 Months, Hybrid |
 |Ceridian|Toronto, ON| [Multiple Software Developer Intern roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=Software+Developer+Intern)|4 or 8 months |Remote|
-|Cowbell|Toronto, ON| **[Closed]** ~~[Software Engineer (Platform) Intern]~~ |Jan 2023|4 Months, Remote|
+|Cowbell|Toronto, ON| **[Closed]** ~~[Software Engineer (Platform) Intern]~~|Jan 2023|4 Months, Remote|
 |Inworld|Vancouver, BC|  **[Closed]** ~~[Software Engineering Intern]~~|Summer 2023|12-16 weeks, Remote|
 |Entrust|Ottawa, ON|  **[Closed]** ~~[Intern - Software Development - Certificate Solutions]~~|?|16 months|
 |General Dynamics|Ottawa, ON|  **[Closed]** ~~[Software Engineering Co-op]~~|Summer 2023|4-12 Months|
@@ -43,16 +43,16 @@ To contribute:
 |CanadaLife| Toronto, ON | **[Closed]** ~~[Associate Software Developer]~~ | ? |
 | Blackbery | Waterloo, ON | [Software Development Student](https://bb.wd3.myworkdayjobs.com/en-US/Student/jobs/details/Software-Development-Student---4-Month-Summer-Term_20222139) | Summer 2023 | 4 months |
 | Nasdaq | Toronto - Ontario | **[Closed]** ~~[Software Engineering Intern]~~ | Summer 2023 |  |
-| Genetec | Montreal, QC | [Software Developer - Cloud](https://apply.workable.com/genetec-inc/j/453BD3A0A4/) | Summer 2023 |  |
+| Genetec | Montreal, QC | **[Closed]** ~~[Software Developer - Cloud]~~ | Summer 2023 |  |
 |Meta University|Menlo Park,CA,USA | **[Closed]** ~~[Engineering Summer 2023]~~|Summer 2023| first and second year students in US, Canada,Mexico|
 |1Password| Canada(Remote) | **[Closed]** ~~[Developer Intern - User Lifecycle & Growth]~~ |Summer 2023|
 |Axon|Canada(Remote)| **[Closed]** ~~[Embedded Systems Engineering Internship]~~| Summer 2023|
 |RBC| MISSISSAUGA, Ontario, Canada | [Insurance-Data Engineer - Co-op]([https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/Data-Engineer---Co-op_R-0000044874))|Summer 2023|
-|Nokia| Ottawa, Ontario, Canada | [5G Cloud Engineer Co-op/Intern](https://careers.nokia.com/jobs/5g-cloud-engineer-co-op-intern-95209)| Summer 2023 | 4 or 8 months|
+|Nokia| Ottawa, Ontario, Canada | **[Closed]** ~~[5G Cloud Engineer Co-op/Intern]~~| Summer 2023 | 4 or 8 months|
 |Ulula| Hybrid/Toronto, ON|  **[Closed]** ~~[Software Development Intern]~~|Summer 2023| 4 months |
 |Tucows| Remote, Canada | **[Closed]** ~~[Systems Administrator, Intern - Remote]~~|Summer/Fall 2023| 4, 8 or 12 months|
 |Hatch| Mississauga, Ontario, Canada| **[Closed]** ~~[Hydrotechnical Co-op Student]~~|Summer 2023|
-|Schneider Electrics| Victoria, BC | **[Closed]** ~~[Firmware Engineering Co-op Student]~~  ||
+|Schneider Electrics| Victoria, BC | **[Closed]** ~~[Firmware Engineering Co-op Student]~~||
 |AppLovin| Toronto, ON | [Backend Software Engineering Intern](https://jobs.lever.co/applovin/de10fcfa-bb39-41ec-95fa-a72ed9b6484d)| Summer 2023
 |Nasdaq | Toronto, ON | **[Closed]** ~~[Software Engineering Intern - US & Canada 2023 Internship]~~ | Summer 2023 |
 | Sun Life | Toronto, ON, Waterloo, ON | **[Closed]** ~~[Data Engineer Co-op]~~ | |
@@ -86,3 +86,8 @@ To contribute:
 | Patron Technology | Montreal, QC (Remote) | [Web Software Engineer Intern](https://www.linkedin.com/jobs/view/3507543714/?alternateChannel=search&refId=p%2Fe4EMUbeQh%2FY1auMtisJw%3D%3D&trackingId=2Rkn1Cltso4CyB5Xl%2BWHkQ%3D%3D) | Summer 2023 | 3 months |
 | Canadian Space Agency (CSA) | Multiple Canada | [All Internships](https://www.asc-csa.gc.ca/eng/jobs/search-internships.asp) | Various | |
 |Autodesk| Toronto, ON | [Multiple Postions](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/details/Intern--Software-Engineer--Fall-2023-_23WD67857?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&workerSubType=39f5af07b0c54bc588b1a47788da7f81&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)| Summer, Fall 2023| 4 months
+| IPEX Group of Companies | Oakville, ON | [Systems Analyst Co-op](https://startup.jobs/system-analyst-summer-co-op-student-ipex-group-of-companies-4104715?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Summer 2023 | 4 months |
+| Equest | Waterloo, ON | [Autonomy Software Developer Co-op](https://ca.talent.com/view?id=92192756c37e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023 | 4 months |
+| Huawei | Oakville, ON | [Co-op Software Engineer - Web](https://www.linkedin.com/jobs/view/co-op-software-engineer-web-at-huawei-technologies-canada-co-ltd-3504437154/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | Summer 2023 | 4 months |
+| Proofpoint |Toronto, ON | [QA Engineer Co-op Intern](https://www.linkedin.com/jobs/view/qa-engineer-co-op-intern-at-proofpoint-3481000739/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | Summer 2023 | 4 months |
+| Meterwork |Markham, ON | [Software Engineer Co-op](https://meterwork.com/job/software-engineer-co-op-distributed-systems_huawei_BNPuXCqo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Summer 2023, Fall 2023, Winter 2024 | 4, 8, 12, 16 months |
