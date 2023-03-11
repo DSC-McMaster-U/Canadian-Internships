@@ -29,7 +29,7 @@ To contribute:
 |Nokia| Multiple Locations| [Multiple Roles](https://careers.nokia.com/jobs/search/36839040)| Summer 2023, Fall 2023| 4 months (some roles can be extended to 8 months)|
 |Guidewire Software|Toronto, ON| [Summer 2023 Software Engineering Co-op](https://www.linkedin.com/jobs/view/3371652226)|Summer 2023| 4 Months, Hybrid |
 |Ceridian|Toronto, ON| [Multiple Software Developer Intern roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=Software+Developer+Intern)|4 or 8 months |Remote|
-|Cowbell|Toronto, ON| [Software Engineer (Platform) Intern](https://boards.greenhouse.io/cowbellcyber/jobs/5432241003)|Jan 2023|4 Months, Remote|
+|Cowbell|Toronto, ON| **[Closed]** ~~[Software Engineer (Platform) Intern]~~ |Jan 2023|4 Months, Remote|
 |Inworld|Vancouver, BC|  **[Closed]** ~~[Software Engineering Intern]~~|Summer 2023|12-16 weeks, Remote|
 |Entrust|Ottawa, ON|  **[Closed]** ~~[Intern - Software Development - Certificate Solutions]~~|?|16 months|
 |General Dynamics|Ottawa, ON|  **[Closed]** ~~[Software Engineering Co-op]~~|Summer 2023|4-12 Months|
@@ -45,26 +45,26 @@ To contribute:
 | Nasdaq | Toronto - Ontario | **[Closed]** ~~[Software Engineering Intern]~~ | Summer 2023 |  |
 | Genetec | Montreal, QC | [Software Developer - Cloud](https://apply.workable.com/genetec-inc/j/453BD3A0A4/) | Summer 2023 |  |
 |Meta University|Menlo Park,CA,USA | **[Closed]** ~~[Engineering Summer 2023]~~|Summer 2023| first and second year students in US, Canada,Mexico|
-|1Password| Canada(Remote) | [Developer Intern - User Lifecycle & Growth](https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a)|Summer 2023|
+|1Password| Canada(Remote) | **[Closed]** ~~[Developer Intern - User Lifecycle & Growth]~~ |Summer 2023|
 |Axon|Canada(Remote)| **[Closed]** ~~[Embedded Systems Engineering Internship]~~| Summer 2023|
 |RBC| MISSISSAUGA, Ontario, Canada | [Insurance-Data Engineer - Co-op]([https://jobs.lever.co/1password/367b7769-5ad8-40c8-be26-968cca25134a](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/Data-Engineer---Co-op_R-0000044874))|Summer 2023|
 |Nokia| Ottawa, Ontario, Canada | [5G Cloud Engineer Co-op/Intern](https://careers.nokia.com/jobs/5g-cloud-engineer-co-op-intern-95209)| Summer 2023 | 4 or 8 months|
 |Ulula| Hybrid/Toronto, ON|  **[Closed]** ~~[Software Development Intern]~~|Summer 2023| 4 months |
 |Tucows| Remote, Canada | **[Closed]** ~~[Systems Administrator, Intern - Remote]~~|Summer/Fall 2023| 4, 8 or 12 months|
 |Hatch| Mississauga, Ontario, Canada| **[Closed]** ~~[Hydrotechnical Co-op Student]~~|Summer 2023|
-|Schneider Electrics| Victoria, BC | [Firmware Engineering Co-op Student](https://careers.se.com/global/jobs/46029?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin)||
+|Schneider Electrics| Victoria, BC | **[Closed]** ~~[Firmware Engineering Co-op Student]~~  ||
 |AppLovin| Toronto, ON | [Backend Software Engineering Intern](https://jobs.lever.co/applovin/de10fcfa-bb39-41ec-95fa-a72ed9b6484d)| Summer 2023
 |Nasdaq | Toronto, ON | **[Closed]** ~~[Software Engineering Intern - US & Canada 2023 Internship]~~ | Summer 2023 |
-| Sun Life | Toronto, ON, Waterloo, ON | [Data Engineer Co-op](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Data-Engineer-Co-op_JR00075375) | |
+| Sun Life | Toronto, ON, Waterloo, ON | **[Closed]** ~~[Data Engineer Co-op]~~ | |
 | Lyft| Montreal, QC| [Software Engineering Intern](https://app.careerpuck.com/job-board/lyft/job/6559125002?gh_jid=6559125002)| Summer 2023| 3 months |
 | Okta | Toronto, ON (Remote) | [Quality Engineering Intern](https://www.okta.com/company/careers/quality-engineering-intern-summer-2023-4633944/) | Summer 2023 | 4 months |
-| City of Ottawa | Ottawa, ON | [Summer Student-Programmer Developer/Integrator Assistant](https://jobs-emplois.ottawa.ca/city-jobs/job/Ottawa%2C-ON-Summer-Student-Programmer-DeveloperIntegrator-Assistant-ON/727176947/) | Summer 2023 | |
-| UKG | Toronto, ON | [Software Developer Coop/Intern - Summer 2023](https://careers.ukg.com/careers/JobDetail/Software-Developer-Coop-Intern-Summer-2023/43682) | Summer 2023 | |
-| The Home Depot | Toronto, ON (Remote) | [2023 Summer Student Internship/Co-op Opportunity – Software Developer Front-end/back-end Intern](https://careers.homedepot.ca/job-view/internship-co-op-software-developer-front-end-back-end-intern-remote-1452446) | Summer 2023 | 4 months |
-| Intact | Toronto, ON | [Data engineering Developer – 4 Month Co-op/Internship (Summer 2023)](https://careers.intactfc.com/ca/en/job/IFCOUSR133487INTACTINSURANCEENCA/Data-engineering-Developer-4-Month-Co-op-Internship-Summer-2023) | Summer 2023 | 4 months |
-| Electronic Arts| Vancouver, BC| [Software Engineering Co-op](https://ea.gr8people.com/jobs/177538/software-engineer-co-op-ufc)|
-|HP| Burnaby,BC| [Associate Software Developer – HP Anyware (Co-op position)](https://jobs.hp.com/jobdetails/17812320/associate-software-developer-hp-anyware-co-op-position-burnaby-ca/)| Summer 2023
-| Telus | Toronto, ON, CA | [Client Data Analytics Specialist - Co-op Student](https://careers.telus.com/job/Toronto-Client-Data-Analytics-Specialist-Co-op-Student-ON/567830317/) | May 2023 - 4 or 8 months |
+| City of Ottawa | Ottawa, ON | **[Closed]** ~~[Summer Student-Programmer Developer/Integrator Assistant]~~ | Summer 2023 | |
+| UKG | Toronto, ON | **[Closed]** ~~[Software Developer Coop/Intern - Summer 2023]~~  | Summer 2023 | |
+| The Home Depot | Toronto, ON (Remote) | **[Closed]** ~~[2023 Summer Student Internship/Co-op Opportunity – Software Developer Front-end/back-end Intern]~~  | Summer 2023 | 4 months |
+| Intact | Toronto, ON | **[Closed]** ~~[Data engineering Developer – 4 Month Co-op/Internship (Summer 2023)]~~  | Summer 2023 | 4 months |
+| Electronic Arts| Vancouver, BC| **[Closed]** ~~[Software Engineering Co-op]~~ |
+|HP| Burnaby,BC| **[Closed]** ~~[Associate Software Developer – HP Anyware (Co-op position)]~~ | Summer 2023
+| Telus | Toronto, ON, CA | **[Closed]** ~~[Client Data Analytics Specialist - Co-op Student]~~  | May 2023 - 4 or 8 months |
 | Hatch | Niagara Falls, ON, Canada | **[Closed]** ~~[Structural Engineering Co-op]~~ | May 2023 - 4 months |
 | Charles River Associates | Toronto, ON | [Cyber and Forensic Technology Consultant Intern](https://www.linkedin.com/jobs/view/cyber-and-forensic-technology-consultant-intern-analyst-associate-intern-summer-2023-at-charles-river-associates-3340050928/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | Summer 2023 |
 | Activision | Vancouver | [Software Development Internship](https://careers.activision.com/job/R019050/Software-Development-Internship-Summer-2023) | May 2023 - 4 months |
