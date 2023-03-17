@@ -20,7 +20,6 @@ To contribute:
 | Konrad| Toronto, ON| [Software Developer Intern](https://boards.greenhouse.io/konradgroup/jobs/5268040003)| Summer| 4 months
 | Adobe| Toronto, ON| [Research Scientists/Engineer](https://careers.adobe.com/us/en/job/ADOBUSR133694EXTERNALENUS/2023-Intern-Research-Scientist-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Spring, Summer and Fall| For students pursuing a Masters Degree or PhD|
 | Amazon| Vancouver, BC| [Software Development Engineer](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada)| Summer, Fall|
-| Marvell Technology| Ottawa, ON| [Software Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Software-Intern_2202289?src=SNS-102&source=LinkedIn)| Summer
 |IPG Photonics|Kingston, ON| [Software Developer Intern (LabVIEW)](https://ca.indeed.com/cmp/Ipg-Photonics-Corporation?from=mobviewjob&tk=1gjpp96sngb64800&fromjk=ccfbb6deed0eddc1&attributionid=mobvjcmp)||
 |SOTI Inc|Mississauga, ON| [Software Developer (Intern)](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/details/Software-Developer-Intern---SOTI-XSight--May-2023---12-Months-_R06140)|May 2023|12-16 Months. Hybrid| 
 |Ceridian|Toronto, ON| [Multiple Roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=intern&locationString=toronto&distance=100)|Winter, Summer 2023|4-12 Months (Remote)|
