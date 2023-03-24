@@ -59,3 +59,4 @@ To contribute:
 | Hatch| Mississauga, ON | [NDT Co-op Student](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=86934&company=hatchassocP&st=6CA0E5A492A931596834DCAAE4AEEFE65EA39C01) | Summer 2023 | 4 months |
 | Hatch| Mississauga, ON | [Junior Developer](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=86480&company=hatchassocP&st=54E6E70DFF324CA9D43657788D84BD30B7F6B0FA) | Summer 2023 | 4 months |
 | Hatch| Mississauga, ON | [Materials and Corrosion Intern](https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=86936&company=hatchassocP&st=1E5563342106CDEEC2C33A535F0D086F02A676FF) | Summer 2023 | 4 months |
+| MNP | Toronto, ON (Hybrid) | [Intern, Cyber Security and Privacy - Privacy and Data Protection](https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/062c8fba-7371-4cd7-9e8a-94a0b8019ffc/OpportunityDetail?opportunityId=117d2a87-ccf1-455c-be33-29d2f700eedb) | Summer 2023 | 4 Months |
