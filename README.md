@@ -62,4 +62,3 @@ To contribute:
 | MNP | Toronto, ON (Hybrid) | [Intern, Cyber Security and Privacy - Privacy and Data Protection](https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/062c8fba-7371-4cd7-9e8a-94a0b8019ffc/OpportunityDetail?opportunityId=117d2a87-ccf1-455c-be33-29d2f700eedb) | Summer 2023 | 4 Months |
 |Spotify| Canada(Remote)| [Design Technologist](https://www.lifeatspotify.com/jobs/summer-internship-design-technologist-freemium-mission-us)| Summer 2023|Deadline to apply: April 14th|
 |BMO| Toronto | [Business Analyst, Summer 2023 (Co-op/Internship)](https://jobs.bmo.com/ca/en/job/R230004871/Business-Analyst-Summer-2023-Co-op-Internship-8-months)| Summer 2023| 8 months|
-|Rogers | Brampton | [Summer 2023 Co-op: Developer](https://jobs.rogers.com/job/Brampton-Summer-2023-Co-op-Developer-ON/1006308500/)| Summer 2023| 4 months|
