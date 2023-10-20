@@ -16,6 +16,12 @@ To contribute:
 
 | Company Name                                                                                                                                                                         | Location                             | Role                             |Hiring Season                    | Notes                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| GM |  Markham, ON |[2024 Winter Co-Op - Software Development, Infotainment - Software Defined Vehicle](https://www.wayfair.com/careers/job/software-engineering-intern---summer-----/6977400002/apply)| Winter| 8 Months 
+| Wayfair |  Toronto, ON |[Software Engineering Internship - Summer 2024](https://www.wayfair.com/careers/job/software-engineering-intern---summer-----/6977400002/apply)| Summer| 4 Months 
+| Google |  Markham, ON |[Software Developer Intern, BS, Summer 2024](https://www.google.com/about/careers/applications/jobs/results/100145136748372678-software-developer-intern-bs-summer-2024)| Summer| 4 Months 
+| AMD |  Markham, ON |[Software Engineer Co-op (16 months)](https://careers.amd.com/careers-home/jobs/35195)| Summer| 16 Months 
+| Squarepoint |  Multiple Locations |[Intern Software Developer - Summer 2024](https://boards.greenhouse.io/embed/job_app?token=5342482)| Summer| 4 Months 
+| Ansys |  Multiple Locations |[Summer 2024 - Software Development and Testing Intern](https://careers.ansys.com/job/Montreal-Summer-2024-Software-Development-and-Testing-Intern-Queb-H3A3G4/1073801500/)| Summer| 4 Months | For MS and Phd Students
 | Kinaxis | Ottawa, ON |[Co-Op/Intern Software Developer, Core Algorithms](https://boards.greenhouse.io/kinaxis/jobs/6955629002)| Winter| 8-12 Months 
 |Kepler Communications| Toronto, ON| [Embedded Software Engineering Intern](https://jobs.lever.co/kepler/9199ebb4-896d-4b88-95bd-2d1d1af40fee)| Winter| 4-16 months
 | Konrad| Toronto, ON| [Software Developer Intern](https://boards.greenhouse.io/konradgroup/jobs/5268040003)| Summer| 4 months
