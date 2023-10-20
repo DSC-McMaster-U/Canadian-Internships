@@ -16,7 +16,7 @@ To contribute:
 
 | Company Name                                                                                                                                                                         | Location                             | Role                             |Hiring Season                    | Notes                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Kinaxis | Ottawa, ON |[Co-Op/Intern Software Developer, Core Algorithms](https://boards.greenhouse.io/kinaxis/jobs/6955629002)|| Winter| 8-12 Months 
+| Kinaxis | Ottawa, ON |[Co-Op/Intern Software Developer, Core Algorithms](https://boards.greenhouse.io/kinaxis/jobs/6955629002)| Winter| 8-12 Months 
 |Kepler Communications| Toronto, ON| [Embedded Software Engineering Intern](https://jobs.lever.co/kepler/9199ebb4-896d-4b88-95bd-2d1d1af40fee)| Winter| 4-16 months
 | Konrad| Toronto, ON| [Software Developer Intern](https://boards.greenhouse.io/konradgroup/jobs/5268040003)| Summer| 4 months
 | Adobe| Toronto, ON| [Research Scientists/Engineer](https://careers.adobe.com/us/en/job/ADOBUSR133694EXTERNALENUS/2023-Intern-Research-Scientist-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Spring, Summer and Fall| For students pursuing a Masters Degree or PhD|
