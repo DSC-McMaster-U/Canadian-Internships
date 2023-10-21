@@ -1,4 +1,4 @@
-# List of Canadian Tech Internships by GDSC McMaster (2023)
+# List of Canadian Tech Internships by GDSC McMaster (2023/2024)
 
 This is a community-sourced repo that can be used to find internships located in Canada or companies that sponsor students. 
 
@@ -16,6 +16,7 @@ To contribute:
 
 | Company Name                                                                                                                                                                         | Location                             | Role                             |Hiring Season                    | Notes                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Autodesk |  Multiple Locations |[Software Engineer Intern (Winter 2024)](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Software-Engineer-Intern--Winter-2024-_23WD72449)| Winter| 4 Months 
 | GM |  Markham, ON |[2024 Winter Co-Op - Software Development, Infotainment - Software Defined Vehicle](https://www.wayfair.com/careers/job/software-engineering-intern---summer-----/6977400002/apply)| Winter| 8 Months 
 | Wayfair |  Toronto, ON |[Software Engineering Internship - Summer 2024](https://www.wayfair.com/careers/job/software-engineering-intern---summer-----/6977400002/apply)| Summer| 4 Months 
 | Google |  Markham, ON |[Software Developer Intern, BS, Summer 2024](https://www.google.com/about/careers/applications/jobs/results/100145136748372678-software-developer-intern-bs-summer-2024)| Summer| 4 Months 
